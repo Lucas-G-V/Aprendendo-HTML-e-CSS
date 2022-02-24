@@ -1,0 +1,33 @@
+#imagemdotrabalho {
+  width: 600px;
+  height: 400px;
+  border: 10px;
+  border-radius: 5px;
+  border-color: gray;
+}
+.fontmain {
+  align-items: center;
+  justify-content: space-between;
+}
+.fontmain article {
+  width: 400px;
+}
+.fontmain article h1 {
+  font-size: 70px;
+  line-height: 90%;
+  color: rgba(223, 16, 16, 0.746);
+  font-weight: 400;
+}
+.fontmain article h2 {
+  font-size: 30px;
+  color: rgba(22, 1, 1, 0.746);
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 200%;
+}
+.fontmain article p {
+  color: black;
+  margin: 10px 30px 30px 0px;
+  text-align: justify;
+}
